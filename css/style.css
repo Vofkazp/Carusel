@@ -27,7 +27,6 @@
     top: 0;
     width: 100%;
     height: 100%;
-    border: 1px solid black;
 }
 .item img {
     width: 100%;
@@ -81,11 +80,4 @@
 
 .dott span.active {
     background: #000;
-}
-.item {
-    display: flex;
-}
-.item span {
-    margin: auto;
-    font: 20px Arial;
 }
